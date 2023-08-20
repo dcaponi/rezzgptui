@@ -1,0 +1,52 @@
+About the job
+About Us:
+
+We are on a mission to build and optimize highly valued social commerce and content solutions using science, technology, and progressive testing. We believe that the purchasing journey is unnecessarily disjointed, not designed to meet shoppers where they are. Our aim is to build highly engaging yet simple tools that empower creators to monetize like never before, combining human creativity and machine-learning at the right touch points.
+
+
+About the team:
+
+Wayward empowers creators to curate their own personalized storefronts, connecting them directly with their audience and the brands they love. With Wayward, creators can showcase and promote a curated selection of products, providing their followers with a seamless shopping experience and enabling them to buy directly on their stores. By leveraging the power of social media and influencer marketing, Wayward enables creators to monetize their influence, earn commissions from sales, and strengthen their brand partnerships. This innovative platform not only benefits creators but also offers a unique and engaging shopping experience for consumers, bringing together the best of content and commerce in one place.
+
+
+Job Summary:
+
+As Engineering Manager for Wayward you will take full end-to-end ownership of an engineering system playing a pivotal role in shaping their success. The ideal engineering leader is someone with an experimental mindset who is adaptable and can quickly pivot based on user research, is comfortable context switching, can balance strategy with rapid execution, and thrives in ambiguity. You will work in partnership with the data science team to build into a mature SaaS offering complete with business intelligence and artificial intelligence capabilities. In this role, your team will collaborate closely with designers, product managers, and data scientists to build and optimize our products. Your expertise will drive data-driven decision-making and support marketing decisions made by our customers.
+
+
+This is a hybrid role based out of our Bellevue, WA office that would require working at least 3 days per week in the office.
+
+
+Responsibilities
+
+Lead and manage onshore and offshore engineering resources
+Manage a team of global software engineers delivering significant business impact to Artica (e.g. CRM and revenue for Stoke)
+Own overall engineering infrastructure (DevOps) and improve overall development velocity of the team by agile prioritization (e.g. investment infrastructure vs product features)
+Collaborate with product, marketing, and other team members to understand business needs and prioritize engineering efforts accordingly
+Contribute hands on to implementation of critical features through coding
+Develop and implement strategies for improving our overall customer experience.
+Develop and maintain best practices for engineering processes, quality assurance, and code management
+Foster a culture of collaboration, innovation, and continuous learning within the engineering team
+Communicate effectively with technical and non-technical team members to ensure alignment and transparency
+
+
+Requirements:
+
+A hands-on Engineering leader with experience leading teams, operating with a sense of urgency, and delivering complex projects in a fast-paced environment.
+Start-up and/or new product launch experience: proven ability to drive a team in a driven, agile manner focused more on product fit than scale.
+Experience working on products that are both business and consumer facing, preferably in a social media, ecommerce, or marketplace environment.
+Experience with agile methodologies, code reviews, testing frameworks, CI/CD tools, etc.
+Excellent problem-solving, analytical, and communication skills.
+Ability to work effectively in a fast-paced and dynamic environment
+BSc/BA in Computer Science, Engineering or relevant field is preferred
+
+
+
+
+Several factors are taken into consideration that determine the salary range of this role. A reasonable estimate of the current range is $175,000 to $250,000.
+
+
+The range above reflects the potential base pay across the U.S. for this role (except as noted below); the applicable base pay range will depend on what ultimately is determined to be the candidate’s primary work location. Individual base pay depends on various factors, in addition to primary work location, such as complexity and responsibility of role, job duties/requirements, and relevant experience and skills. Base pay ranges are reviewed each year. Offers are made within the base pay range applicable at the time.
+
+
+We offer our employees a range of benefits. Employees are eligible for health care (medical, dental, vision), basic life insurance, unlimited paid time off (subject to manager approval), training/development, wellness resources, stock options, and much more! The benefits listed here may vary depending on the nature of employment and the work location.
