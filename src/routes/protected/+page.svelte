@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { VITE_RESUME_URL } from "$env/static/private";
 
+    const resumeUrl = import.meta.env["VITE_RESUME_URL"]
     let jobDescription = "";
 
     interface HTMLInputEvent extends Event {
@@ -21,7 +21,7 @@
             formData.append('resume', file);
             
             try {
-                const response = await fetch(`${VITE_RESUME_URL}/resume`, {
+                const response = await fetch(`${resumeUrl}/resume`, {
                     method: 'POST',
                     body: formData,
                     credentials: 'include',
@@ -41,7 +41,7 @@
     const tailorResume = async (event: SubmitEvent) => {
         event.preventDefault()
         try {
-            const response = await fetch(`${VITE_RESUME_URL}/job`, {
+            const response = await fetch(`${resumeUrl}/job`, {
                 method: 'POST',
                 body: JSON.stringify({jobDescription}),
                 credentials: 'include',
