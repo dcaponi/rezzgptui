@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { onMount } from "svelte";
+	import { VITE_RESUME_URL } from "$env/static/private";
 
     let jobDescription = "";
 
@@ -21,7 +21,7 @@
             formData.append('resume', file);
             
             try {
-                const response = await fetch('http://localhost:8080/resume', {
+                const response = await fetch(`${VITE_RESUME_URL}/resume`, {
                     method: 'POST',
                     body: formData,
                     credentials: 'include',
@@ -41,7 +41,7 @@
     const tailorResume = async (event: SubmitEvent) => {
         event.preventDefault()
         try {
-            const response = await fetch('http://localhost:8080/job', {
+            const response = await fetch(`${VITE_RESUME_URL}/job`, {
                 method: 'POST',
                 body: JSON.stringify({jobDescription}),
                 credentials: 'include',
