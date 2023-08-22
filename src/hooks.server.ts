@@ -22,7 +22,7 @@ export const handle: Handle = async ({ event, resolve }) => {
         event.locals.pb.authStore.exportToCookie({ 
             httpOnly: true,
             secure: isProd, 
-            sameSite: 'none', 
+            sameSite: isProd ? 'none' : 'lax',  
             domain: isProd ? ".indexter.tech" : "localhost" 
         })
     );
